@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá eu sou o Cauã, seja bem vindo(a) ao meu perfil!
 
-<!--
-**cauams/cauams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente cursando o primeiro semestre em Sistemas de Informação.
+- 🌱 Estou focando os meus estudos na linguagem Java, com o objetivo de começar a trabalhar com sistemas WEB.
+- 📫 E-mail para contato: caua.scarabelotti@hotmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://github.com/cauams">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauams&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauams&layout=compact&langs_count=7&theme=dark"/>
+    
+</div>
